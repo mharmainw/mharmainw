@@ -1,17 +1,24 @@
-## Hi there 👋
+## Hi, I'm Harmain 👋
 
+I'm a Python backend developer focused on building reliable REST APIs and backend applications.
 
-<!--
-**mharmainw/mharmainw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Work With
 
-Here are some ideas to get you started:
+**Backend:** FastAPI, Django, Django REST Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases:** PostgreSQL, SQLite, SQLAlchemy
+
+**Authentication:** OAuth2, JWT
+
+**Testing:** pytest, HTTPX
+
+**DevOps:** Docker, GitHub Actions, CI/CD
+
+**Tools:** Git, Alembic, uv
+
+## Currently Learning
+
+- Advanced FastAPI architecture
+- Backend testing and code quality
+- PostgreSQL optimization
+- Production deployment practices
