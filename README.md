@@ -1,6 +1,6 @@
 # Hi, I'm Harmain 👋
 
-I'm a computer science student and backend-focused developer with experience building web applications, REST APIs, command-line programs, and low-level programming projects.
+I'm a computer science student and backend-focused developer with experience building web applications and REST API's
 
 ## About Me
 
